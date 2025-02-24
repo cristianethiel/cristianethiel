@@ -13,7 +13,7 @@ Também ofereço consultorias em Inbound Marketing, Marketing de Conteúdo, Mark
 Atualmente, estou cursando uma formação completa em Ciência de Dados para aprimorar minhas habilidades analíticas, visando oferecer insights mais precisos e direcionar a tomada de decisões estratégicas para os clientes.
 
 - Ferramentas: Power BI, Excel, Looker, Google Analytics
-- Linguagens: SQL, Python
+- Linguagens: SQL, Python, DAX
 ##
 <div style="diplay:inline_block">
   <a href="https://www.instagram.com/cristianethiel/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
