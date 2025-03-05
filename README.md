@@ -1,19 +1,32 @@
 ### Olá, eu sou Cristiane Thiel
 ##
-Atuo como Consultora de Marketing Estratégico, com foco em Inteligência de Mercado e Estratégia de Negócios. Meu objetivo é fornecer insights estratégicos que impulsionem o crescimento e o sucesso dos negócios.
+Business Intelligence (BI) e tomada de decisão baseada em dados. Meu objetivo é transformar dados brutos em insights estratégicos que impulsionam crescimento e inovação.
 
-Possuo graduação em Marketing, complementada por formação executiva em Neurobusiness e pós-graduação em Estratégia e Inovação. Essa formação me proporcionou uma sólida expertise na concepção e implementação de estratégias de marca.
+Com formação em Marketing, Neurobusiness, Estratégia e Inovação, evoluí minha atuação para integrar inteligência de dados ao processo decisório, permitindo que empresas compreendam melhor seus mercados, clientes e desempenho operacional.
 
-Por meio de análises detalhadas do mercado e da concorrência, auxilio empresas na identificação de oportunidades e no desenvolvimento de estratégias para alcançar uma vantagem competitiva sustentável.
+Minha abordagem combina análise avançada e visão estratégica, indo além da implementação técnica para criar soluções que geram valor real.
 
-Além disso, minha abordagem se estende a áreas como Posicionamento Estratégico, Estratégia de Marca, Proposta de Valor e Segmentação de Mercado.
+<b>Principais competências:</b>
+<br>» Business Intelligence (BI): Análise e modelagem de dados para suporte estratégico.
+<br>» Visualização de Dados & Dashboards: Desenvolvimento de relatórios interativos com Power BI e Looker Studio.
+<br>» Estratégia Baseada em Dados: Integração de insights ao marketing, segmentação e posicionamento de marca.
+<br>» Ferramentas Analíticas: Power BI, Looker Studio, Python, SQL, DAX.
 
-Também ofereço consultorias em Inbound Marketing, Marketing de Conteúdo, Marketing de Influência e Cultura Organizacional Digital.
+Acredito que a verdadeira vantagem competitiva surge quando os dados são utilizados de forma inteligente para orientar ações e gerar crescimento sustentável.
+##
+Business Intelligence (BI) and data-driven decision-making. My mission is to turn raw data into strategic insights that drive growth and innovation.
 
-Atualmente, estou cursando uma formação completa em Ciência de Dados para aprimorar minhas habilidades analíticas, visando oferecer insights mais precisos e direcionar a tomada de decisões estratégicas para os clientes.
+With a background in Marketing, Neurobusiness, Strategy, and Innovation, I have evolved my expertise to integrate data intelligence into business strategies, enabling companies to gain a deeper understanding of their markets, customers, and performance.
 
-- Ferramentas: Power BI, Excel, Looker, Google Analytics
-- Linguagens: SQL, Python, DAX
+My approach blends advanced analytics with a strategic mindset, going beyond technical implementation to create solutions that generate real value.
+
+<b>Core competencies:</b>
+<br>» Business Intelligence (BI): Data analysis and modeling for strategic decision-making.
+<br>» Data Visualization & Dashboards: Creating interactive reports using Power BI and Looker Studio.
+<br>» Data-Driven Strategy: Aligning insights with marketing, segmentation, and brand positioning.
+<br>» Analytical Tools: Power BI, Looker Studio, Python, SQL, DAX.
+
+I believe that true competitive advantage comes when data is leveraged intelligently to drive actions and achieve sustainable growth.
 ##
 <div style="diplay:inline_block">
   <a href="https://www.instagram.com/cristianethiel/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
